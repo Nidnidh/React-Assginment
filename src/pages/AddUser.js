@@ -1,4 +1,4 @@
-// src/pages/AddUser.js
+
 import React, { useState } from 'react';
 
 function AddUser() {
